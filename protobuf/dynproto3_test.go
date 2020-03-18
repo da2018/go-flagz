@@ -10,8 +10,8 @@ import (
 	"time"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/mwitkow/go-flagz"
-	"github.com/mwitkow/go-flagz/protobuf/testdata"
+	"github.com/da2018/go-flagz"
+	"github.com/da2018/go-flagz/protobuf/testdata"
 	flag "github.com/spf13/pflag"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

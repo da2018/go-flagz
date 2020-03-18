@@ -15,8 +15,8 @@ import (
 	"io"
 	"strings"
 
-	"github.com/mwitkow/go-flagz"
-	"github.com/mwitkow/go-flagz/monitoring"
+	"github.com/da2018/go-flagz"
+	"github.com/da2018/go-flagz/monitoring"
 	"github.com/prometheus/client_golang/prometheus"
 	flag "github.com/spf13/pflag"
 	"github.com/stretchr/testify/require"

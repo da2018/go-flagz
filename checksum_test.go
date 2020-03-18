@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mwitkow/go-flagz"
+	"github.com/da2018/go-flagz"
 	flag "github.com/spf13/pflag"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

@@ -16,8 +16,8 @@ import (
 
 	"os"
 
-	"github.com/mwitkow/go-flagz"
-	"github.com/mwitkow/go-flagz/configmap"
+	"github.com/da2018/go-flagz"
+	"github.com/da2018/go-flagz/configmap"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/suite"

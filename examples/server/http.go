@@ -11,8 +11,8 @@ import (
 	"os"
 
 	etcd "github.com/coreos/etcd/client"
-	"github.com/mwitkow/go-flagz"
-	"github.com/mwitkow/go-flagz/watcher"
+	"github.com/da2018/go-flagz"
+	"github.com/da2018/go-flagz/watcher"
 	flag "github.com/spf13/pflag"
 )
 

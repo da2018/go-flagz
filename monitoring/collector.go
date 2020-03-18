@@ -6,7 +6,7 @@ package monitoring
 import (
 	"encoding/hex"
 
-	"github.com/mwitkow/go-flagz"
+	"github.com/da2018/go-flagz"
 	"github.com/prometheus/client_golang/prometheus"
 	flag "github.com/spf13/pflag"
 )
